@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+@font-face {
+    font-family:"Permanent" ;
+    src: url(./../font/PermanentMarker-Regular.ttf);
+}
+
+
+
+html{
+    font-family: Permanent;
+    
+}
+
+main{
+    background-image: url(./../img/ali-kazal-DXQUIS4Tl9w-unsplash.jpg);
+    padding: 20vh;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    text-shadow: 0 0 2px;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 20px;
+}
+
+
+
+article{
+    background-color: rgba(240, 248, 255, 0.622);
+    text-align: center;
+    padding: 2%;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 5rem;
+    
+
+}
+
+p{
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+}
+
+h2{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
